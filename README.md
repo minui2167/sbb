@@ -1,2 +1,2 @@
 # sbb
-springboot 게시판
+springbootboard 게시판
